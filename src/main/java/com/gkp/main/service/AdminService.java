@@ -242,9 +242,9 @@ public class AdminService {
 	
 	//GetBooks By categoryName 
 	 
-	public List<BookDTO> getBooksByCategory(String categoryName){
+	/*public List<BookDTO> getBooksByCategory(String categoryName){
 		// Fetch Category by Name 
-		
+*/		
 		
 		
 		
@@ -257,7 +257,6 @@ public class AdminService {
 	
 	
 	
-}
 
 
 
