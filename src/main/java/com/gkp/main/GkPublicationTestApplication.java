@@ -9,9 +9,9 @@ import org.springframework.context.ConfigurableApplicationContext;
 public class GkPublicationTestApplication {
 
 	public static void main(String[] args) {
-		ConfigurableApplicationContext run	=SpringApplication.run(GkPublicationTestApplication.class, args);
+				SpringApplication.run(GkPublicationTestApplication.class, args);
 		
-		run.close();
+		
 	}
 
 }
